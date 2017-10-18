@@ -354,45 +354,6 @@ header .container, footer .container {
 .main--left p span {
   font-weight: 900;
 }
-
-/*MailChimp Form Style---*/
-#mc_embed_signup{clear:left; width:100%;}
-
-#mce-EMAIL {
-  float: left;
-  width: 60%;
-  padding-left: 35px;
-  border-radius: 50px 0px 0px 50px;
-  height: 55px;
-}
-
-#mc-embedded-subscribe {
-  width: 40%;
-  min-width: 150px;
-  border-radius: 0px 50px 50px 0px;
-  background-color: #4E74D3;
-  color: white;
-  height: 55px;
-  font-size: 18px;
-}
-
-input[type=email] {
-  font-size: 15px;
-  font-weight: 400;
-  font-style: italic;
-}
-
-input[type=submit] {
-  font-weight: 400;
-  border: 0px;
-  transition: all 0.2s ease-in-out;
-}
-
-input[type=submit]:hover {
-  border: 0px !important;
-  background-color: #4D4D4D !important;
-}
-
 /*Right side---*/
 .main--right img {
   width: 100%;
